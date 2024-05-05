@@ -1,5 +1,3 @@
-```diff
-# Demigods - @@5God's@@ §fVanilla Server!
+# Demigods - $${\color{red}God's}$$ §fVanilla Server!
 
 Web App for Minecraft Server.
-```
