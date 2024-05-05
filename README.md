@@ -1,3 +1,3 @@
-# Demigods - $${\color{red}God's}$$ §fVanilla Server!
+# Demigods - $${\textcolor{red}God's}$$ §fVanilla Server!
 
 Web App for Minecraft Server.
